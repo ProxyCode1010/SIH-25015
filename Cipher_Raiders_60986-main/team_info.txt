@@ -1,0 +1,10 @@
+Team Name: Cipher Raiders
+Institute : KIIT College Of Engineering , Gurgaon 
+Team Members :
+    Team Leader : Suryoday Singh 
+    Member 1: Kashish - presentor 
+    Member 2: Adarsh - IOT Engineer
+    Member 3: Yogesh Singh - Software Engineer
+    Member 4: Dheeraj - AI/ ML Engineer
+    Member 5: Vijay Kumar Yadav - Field Researcher and Survey
+    
